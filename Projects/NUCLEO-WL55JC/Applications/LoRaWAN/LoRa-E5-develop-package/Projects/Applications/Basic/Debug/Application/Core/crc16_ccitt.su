@@ -1,0 +1,2 @@
+crc16_ccitt.c:40:10:GetCrc16	24	static
+crc16_ccitt.c:50:6:Crc16Check	24	static

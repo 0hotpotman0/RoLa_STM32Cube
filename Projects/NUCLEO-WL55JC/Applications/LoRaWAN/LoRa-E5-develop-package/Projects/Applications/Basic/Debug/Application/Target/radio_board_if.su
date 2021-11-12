@@ -1,0 +1,8 @@
+stm32wlxx_ll_bus.h:449:22:LL_AHB2_GRP1_EnableClock	24	static
+radio_board_if.c:57:9:RBI_Init	32	static
+radio_board_if.c:87:9:RBI_DeInit	8	static
+radio_board_if.c:108:9:RBI_ConfigRFSwitch	16	static
+radio_board_if.c:153:9:RBI_GetTxConfig	4	static
+radio_board_if.c:164:9:RBI_GetWakeUpTime	4	static
+radio_board_if.c:175:9:RBI_IsTCXO	4	static
+radio_board_if.c:186:9:RBI_IsDCDC	4	static

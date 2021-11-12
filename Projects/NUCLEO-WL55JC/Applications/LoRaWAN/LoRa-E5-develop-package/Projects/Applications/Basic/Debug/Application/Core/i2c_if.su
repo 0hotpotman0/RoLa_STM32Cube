@@ -1,0 +1,10 @@
+stm32wlxx_ll_bus.h:914:22:LL_APB1_GRP1_EnableClock	24	static
+stm32wlxx_ll_bus.h:1018:22:LL_APB1_GRP1_DisableClock	16	static
+stm32wlxx_ll_bus.h:1062:22:LL_APB1_GRP1_ForceReset	16	static
+stm32wlxx_ll_bus.h:1107:22:LL_APB1_GRP1_ReleaseReset	16	static
+i2c_if.c:7:6:SYS_I2C_Init	8	static
+i2c_if.c:12:6:SYS_I2C_DeInit	8	static
+i2c_if.c:17:6:SYS_I2C_Test	16	static
+i2c_if.c:23:6:SYS_I2C_Reset_Bus	8	static
+i2c_if.c:33:6:SYS_I2C_Write_Buffer	32	static
+i2c_if.c:40:6:SYS_I2C_Read_Buffer	32	static

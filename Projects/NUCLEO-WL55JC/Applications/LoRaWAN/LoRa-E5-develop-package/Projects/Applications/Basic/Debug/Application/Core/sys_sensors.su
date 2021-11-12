@@ -1,0 +1,5 @@
+sys_sensors.c:11:6:SYS_Sensor_Init	16	static
+sys_sensors.c:27:6:SYS_Sensor_Update_Data	24	static
+sys_sensors.c:66:10:SYS_Sensor_Get_Length	16	static
+sys_sensors.c:86:6:SYS_Sensor_Get_Buffer	24	static
+sys_sensors.c:98:6:SYS_Sensor_Clean_Buffer	24	static
